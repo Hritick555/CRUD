@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+a{
+    text-decoration: none;
+    
+}
